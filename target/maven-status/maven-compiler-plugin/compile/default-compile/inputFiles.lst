@@ -1,0 +1,6 @@
+/home/aziring/prototypes/oauthserver/src/main/java/auth/application/AuthManagerConfigurer.java
+/home/aziring/prototypes/oauthserver/src/main/java/auth/application/LdapAuthConfiguration.java
+/home/aziring/prototypes/oauthserver/src/main/java/rest/AuthResource.java
+/home/aziring/prototypes/oauthserver/src/main/java/auth/application/AuthManager.java
+/home/aziring/prototypes/oauthserver/src/main/java/auth/token/InMemoryTokenStoreService.java
+/home/aziring/prototypes/oauthserver/src/main/java/auth/token/JdbcTokenStoreService.java

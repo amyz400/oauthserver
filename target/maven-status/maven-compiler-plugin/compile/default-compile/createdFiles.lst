@@ -1,0 +1,6 @@
+auth/token/JdbcTokenStoreService.class
+auth/application/LdapAuthConfiguration.class
+auth/token/InMemoryTokenStoreService.class
+rest/AuthResource.class
+auth/application/AuthManager.class
+auth/application/AuthManagerConfigurer.class
